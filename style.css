@@ -1,0 +1,14 @@
+.navigation {
+  color: rgb(0, 128, 32);
+}
+
+.box--background--img {
+  background-image: url(./images/background-desktop.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 8% 15%;
+}
+
+.spacing-aboutme {
+  padding: 8% 15%;
+}
