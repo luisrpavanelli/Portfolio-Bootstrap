@@ -88,25 +88,13 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://htmlpreview.github.io/?https://github.com/luisrpavanelli/Portfolio-Bootstrap/blob/bootstrap-branch/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -202,9 +190,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@luisrpavanelli](https://github.com/luisrpavanelli)
+- Twitter: [@luisrpavanello](https://twitter.com/luisrpavanello)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/luisrpavanello)
 
 👤 **Author2**
 
@@ -220,9 +208,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Bootstrap]**
+- [ ] **[Portfolio]**
+- [ ] **[PairProgramming]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
